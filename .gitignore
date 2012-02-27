@@ -1,0 +1,13 @@
+bin/*
+obj/*
+doc/html
+*.depend
+*.layout
+*.cbTemp
+guacamole
+guacamole-d
+*.gv
+*.dot
+*.so
+example/obj/*
+example/bin/*
